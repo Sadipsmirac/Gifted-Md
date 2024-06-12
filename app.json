@@ -1,5 +1,5 @@
 {
-  "name":"gifted-md@4.0.0",
+  "name":"Sadips 🛐❤️",
   "description":"A MultiDevice WhatsApp Bot Created by Gifted Tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
@@ -42,7 +42,7 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"GIFTED-MD",
+      "value":"Sadips 🛐l❤️",
       "required":false
 
     } ,
@@ -72,7 +72,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , make sure it starts with Gifted;;; or GIFTED;;; or SESSION_",   
-      "value":"",
+      "value":"Gifted;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMktYSHFqSTJsdVdCeGN4YTdsUy9xK2hoN1BuWXlxU3NBa0F4Zlc2eEMxWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidU5yand2b2hOT2tvTFZUQjNOejNRN1poTUFCQ0xkTXlWbmpwb0xpUUlFST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzRVAzS0NpSTg2NXJCNkdlV0FqRlRja0RLUVM0NU1lU3R3NGI5MDMrdTBnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIreG9TeG91TDRGai9Xa2hjdE42SDFFeU5BZVR4Zk5STytzM1dYWmtpUGo0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9CWFprNStuYm50UlBNeHl5UWF3NUhxYmRMeUtGYjJxazlENGNCVTY3MFU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjgzaGxrUWF6dE5DVk5HTUxLR015ZVpON0poRHVMd090dWxmMFpnYmp3UzQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUx4K3kxSWQzTXBwdHFRTGpOb2hmd01RMnFwK05TamZCRGY1bzhBbE5sND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiekhzUkVhS2lteHpwYVdpMWl5TWRGY1BZOHpaRHFBRzd1Z0gvaDJ2ZlRoTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ilg0RkEyTlprTDk4d0Z1UUpzZzFqdThWV1VaenlWY1NGdHduTmhhakd3cDZiUGtiOG1TTnZ2cVNYYkcwRHZ3T2o5aGs3TGxvMEc1cDRlZ0hjb3BFTENRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjA5LCJhZHZTZWNyZXRLZXkiOiJyMW5tZUI5bUdoVEtlalBzbWduMTJYZEpqOGt2dXZBZ0drajBiNmxhTGJzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI3ajVmMG9JaFJWR1dHWXkwWHhUX2xRIiwicGhvbmVJZCI6IjkwNzJiNjg4LWE4YTAtNDQzYS05ZDZiLWU1OTIyOTAxM2U5YyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJxdG1WU1Y1NGVIeWJJN2N0QnY1UHc2SlBFTG89In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidEtGVmo2NHJyYkZyWlRlNU9vaHZnZTB4NVNnPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjhSNlNBRFJZIiwibWUiOnsiaWQiOiIyMzQ4MTY1OTQ2OTkzOjlAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0tmMXR4NFFqdldsc3dZWUFTQUFLQUE9IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InBSdmJUSkVUZFZaeUpHOEdmanp2a3ZLREhNek1kM0ZPbVpPOFpBdVRwRms9IiwiYWNjb3VudFNpZ25hdHVyZSI6IkRESHNaWWxMdGt5VW8zTFdJcHEzNngyRVFhZHd0WmZrMlhkQmFHVFA3bElKMmlYNUtqWVV0VUlWRWFVMzJyRk5jSm5WclZMUk1OMGtkNnRKUEM1REFBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJKSExSRllFTUlVU2VDM2dwbnBKQVdubSs1VU1YdWxIbWtoNVlpclZqMCtoVi8ycVp2SFUrNG9peFd6SDFORlB4MmRsRk9CTWlmY3NFeDJvNHRHNXVDQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNDgxNjU5NDY5OTM6OUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJhVWIyMHlSRTNWV2NpUnZCbjQ4NzVMeWd4ek16SGR4VHBtVHZHUUxrNlJaIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzE4MTg4Njk5fQ==",
       "required": true
 
     },
@@ -81,14 +81,14 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "Gifted Tech"
+    "value": "Sadips 🛐❤️"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254728782591,254762016957"
+    "value": "2348165946993,2348165946993"
   },
     "WARN_COUNT":
   {
